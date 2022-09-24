@@ -22,7 +22,6 @@ header {
 .mobileMenu {
   margin-top: 5%;
   margin-left: 7%;
-  /* position: fixed; */
 }
 
 .heading {
@@ -1262,8 +1261,7 @@ header {
 
   .logo img {
     height: 40px;
-    width: 80px;
-    
+    width: 80px; 
   }
 
   .txtGreeting {
